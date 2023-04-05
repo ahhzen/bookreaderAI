@@ -1,3 +1,4 @@
 # bookreaderAI
-Read Book and answer question
-Test OpenAI LLM 
+A test Notebook to read txt. e-Book and answer question:
+- Use OpenAI LLM predictor
+- Use GPTSimpleVectorIndex 
